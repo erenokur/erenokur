@@ -62,6 +62,6 @@ Hi there! I'm Eren, a passionate software developer with a love for all things c
  </a>
 </div>
 
-![Header](./ErenMatrix.jpg)
+![Header](./Eren.gif)
 
 Feel free to explore these projects and provide feedback or suggestions. I'm always open to learning and improving my skills. 🌟
