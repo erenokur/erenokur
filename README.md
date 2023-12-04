@@ -2,9 +2,9 @@
 
 Welcome to My GitHub Profile! 🚀
 
-### 😄 About Me
+### 😄 About Me 💻
 
-Hi there! I'm Eren, a passionate software developer with a love for all things coding. I have experience in various programming languages, including C#, javaScript, and python. My goal is to contribute to open-source projects and collaborate with other developers to create amazing software solutions. 💻
+Hi there! I'm Eren, a passionate software developer with a love for all things coding. I have experience in various programming languages, including C#, javaScript, and python. My goal is to contribute to open-source projects and collaborate with other developers to create amazing software solutions. 
 
 ### 🛠️ Stack
 
