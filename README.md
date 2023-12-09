@@ -31,6 +31,7 @@ Hi there! I'm Eren, a passionate software developer with a love for all things c
  <img src="https://img.shields.io/badge/Webpack-9cf?logo=Webpack&logoColor=white&style=for-the-badge" alt="Webpack Badge"/>
  <img src="https://img.shields.io/badge/RXJS-ff69b4?logo=reactivex&logoColor=white&style=for-the-badge" alt="RXJS Badge"/>
  <img src="https://img.shields.io/badge/NPM-inactive?logo=npm&logoColor=white&style=for-the-badge" alt="NPM Badge"/>
+ <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="YARN Badge" />
  <img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white&style=for-the-badge" alt="Docker Badge"/>
  <img src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes Badge"/>
  <img src="https://img.shields.io/badge/Expressjs-yellow?logo=express&logoColor=white&style=for-the-badge" alt="Expressjs Badge"/>
@@ -45,7 +46,7 @@ Hi there! I'm Eren, a passionate software developer with a love for all things c
  <img src="https://img.shields.io/badge/Git-blueviolet?logo=git&logoColor=white&style=for-the-badge" alt="Git Badge"/>
  <img src="https://img.shields.io/badge/Cmake-green?logo=cmake&logoColor=white&style=for-the-badge" alt="Cmake Badge"/>
  <img src="https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white&style=for-the-badge" alt="Redis Badge"/>
- <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
+ <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ROS Badge" />
 </p>
  
 ---
