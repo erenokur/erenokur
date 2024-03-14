@@ -23,7 +23,6 @@ Hi there! I'm Eren, a passionate software developer with a love for all things c
  <img src="https://img.shields.io/badge/SASS-ff69b4?logo=SASS&logoColor=white&style=for-the-badge" alt="SASS Badge"/>
  <img src="https://img.shields.io/badge/JQuery-blue?logo=jquery&logoColor=white&style=for-the-badge" alt="Jquery Badge"/>
  <img src="https://img.shields.io/badge/Redux-yellowgreen?logo=Redux&logoColor=white&style=for-the-badge" alt="Redux Badge"/>
- <img src="https://img.shields.io/badge/Redux-yellowgreen?logo=reactivex&logoColor=white&style=for-the-badge" alt="Redux Badge"/>
  <img src="https://img.shields.io/badge/ESLint-informational?logo=eslint&logoColor=white&style=for-the-badge" alt="ESLint Badge"/>
  <img src="https://img.shields.io/badge/NextJS-green?logo=next.js&logoColor=white&style=for-the-badge" alt="NextJS Badge"/>
  <img src="https://img.shields.io/badge/socket.io-black?logo=Socket.io&logoColor=white&style=for-the-badge" alt="Socket.IO Badge"/>
