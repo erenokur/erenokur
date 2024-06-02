@@ -46,6 +46,7 @@ Hi there! I'm Eren, a passionate software developer with a love for all things c
  <img src="https://img.shields.io/badge/Cmake-green?logo=cmake&logoColor=white&style=for-the-badge" alt="Cmake Badge"/>
  <img src="https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white&style=for-the-badge" alt="Redis Badge"/>
  <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ROS Badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet?style=for-the-badge&logoColor=white" alt="Machine Learning" />
 </p>
  
 ---
